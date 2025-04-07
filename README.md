@@ -1,4 +1,6 @@
 # DHSCAN - 高性能Web服务扫描工具
+![图片](https://github.com/user-attachments/assets/ecc9e756-3a2e-4520-b7b2-e507ff2e7b1b)
+
 
 DHSCAN 是一个用 Go 语言编写的高性能 Web 服务扫描工具，支持大规模并发扫描，可以快速发现目标主机上的 Web 服务。
 
@@ -84,6 +86,7 @@ go build -o dhscan
 - 详细的统计信息
 - 可过滤和搜索的结果
 - 自适应布局
+![图片](https://github.com/user-attachments/assets/6e465325-50e4-445c-b0fc-226a2befe9ab)
 
 ### JSON 格式
 - 结构化数据
